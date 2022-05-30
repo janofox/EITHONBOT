@@ -3,10 +3,10 @@ setuptools
 wheel
 aiofiles
 aiohttp
+akinator.py
 beautifulsoup4
 cairosvg
 cfscrape
-ShazamAPI
 coffeehouse==2.2.4
 colour
 covid
@@ -14,7 +14,6 @@ cowpy
 cryptg
 csvfaker
 DateTime
-dataclasses
 fontTools
 python-dotenv
 emoji
@@ -72,4 +71,5 @@ vcsi
 wand
 wikipedia
 youtube_dl
-youtube-search-python==1.4.6
+youtube-search-python
+yt_dlp
